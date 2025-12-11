@@ -6,7 +6,7 @@ Developed as part of the **Signals and Systems** course at **Sharif University o
 
 ## 📄 Project Documentation
 For a detailed theoretical analysis, sampling theorem, and recognition results, please refer to the full report:
-👉 **[Download Full Project Report (PDF)](Project report.pdf)**
+👉 **[Download Full Project Report (PDF)](/Project report.pdf)**
 
 ## 📄 Project Overview
 The project consists of two main modules:
