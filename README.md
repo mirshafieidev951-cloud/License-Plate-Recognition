@@ -42,7 +42,7 @@ The system successfully segments and identifies characters with high confidence 
 
 | Input Plate | Segmented Characters | Recognized String |
 | :---: | :---: | :---: |
-| ![Plate](ideal/p1.jpg) | *(See segmented folder)* | **93D4328** |
+| ![Plate](ideal/p4.jpg) | *(See segmented folder)* | **93D4328** |
 
 ### Robustness Against Downsampling
 As the downsampling rate increases ($N$), the image resolution drops. We identified a **Breaking Point** where the correlation score drops significantly, leading to recognition failure due to loss of high-frequency edge information.
